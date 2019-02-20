@@ -1,0 +1,6 @@
+---
+sachet:
+  version: 0.2.0
+  ram: 64
+  cpu: 50
+  port: 9876
